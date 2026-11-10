@@ -1,0 +1,1 @@
+# ataturk-1881-1938-veri-seti
