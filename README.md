@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/34614883/README.md)
-# ataturk-1881-1938-veri-seti# 1881–1938 | Bir Ömrün Ardında Bıraktıkları
+
+# 1881–1938 | Bir Ömrün Ardında Bıraktıkları
 
 Mustafa Kemal Atatürk'ün doğumundan (1881) ölümüne (10 Kasım 1938) uzanan hayatını **tarih sıralı, sorgulanabilir bir veri seti** olarak ele alan kişisel bir veri analizi projesi. Veri seti, 10 Kasım için hazırladığım kısa videonun da dayanağıdır.
 
